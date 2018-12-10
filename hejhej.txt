@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 daniela
 ändring nr 2
 och så sista ändringen
+=======
+daniela
+>>>>>>> parent of b381524... second
